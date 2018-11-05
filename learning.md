@@ -16,3 +16,14 @@
 ### JS
 * React
 * Angular
+
+### MySQL
+* Load Balancing
+
+### Trend
+* Blockchain
+* Elastic Search
+* Apache Spark
+
+### Certifications (ideas)
+* Red Hat Certified System Administrator (2.5h)
