@@ -40,4 +40,4 @@
 
 ### Code Documentation
 * Function Reference
-* UML
+* Database UML
