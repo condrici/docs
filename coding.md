@@ -18,6 +18,7 @@
 * Notifier
 * Charts
 * Tabulator
+* Loadie
 
 ### Databases
 * MySQL
