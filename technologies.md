@@ -28,3 +28,6 @@
 ### Virtualization
 * VirtualBox
 * Vagrant
+
+### Version Control
+* git
