@@ -24,3 +24,7 @@
 ### Package Managers
 * Composer
 * Node
+
+### Virtualization
+* VirtualBox
+* Vagrant
