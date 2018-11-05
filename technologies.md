@@ -4,6 +4,7 @@
 ### CSS
 * Bootstrap
 * SASS
+* FontAwesome
 
 ### JS Plugins
 * Datepicker
