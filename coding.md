@@ -42,3 +42,8 @@
 ### Code Documentation
 * Function Reference
 * Database UML
+
+### Also looking into
+* Java
+* Android Development
+* Kotlin
