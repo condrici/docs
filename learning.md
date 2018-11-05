@@ -27,3 +27,9 @@
 
 ### Certifications (ideas)
 * Red Hat Certified System Administrator (2.5h)
+
+### APIs
+* Wordpress
+* AdWords
+* Census
+* Europeana APIs
