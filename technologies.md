@@ -6,6 +6,11 @@
 * SASS
 * FontAwesome
 
+### JS
+* Vue
+* jQuery
+* Node
+
 ### JS Plugins
 * Datepicker
 * Fullcalendar
@@ -13,10 +18,6 @@
 * Notifier
 * Charts
 * Tabulator
-
-### JS Libraries and Frameworks
-* Vue
-* jQuery
 
 ### Databases
 * MySQL
