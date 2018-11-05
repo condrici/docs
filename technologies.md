@@ -20,3 +20,7 @@
 ### Databases
 * MySQL
 * Redis
+
+### Package Managers
+* Composer
+* Node
