@@ -32,3 +32,7 @@
 
 ### Version Control
 * git
+
+### Open Source
+* vTiger CRM
+* Wordpress
