@@ -16,3 +16,7 @@
 ### JS Libraries and Frameworks
 * Vue
 * jQuery
+
+### Databases
+* MySQL
+* Redis
