@@ -11,7 +11,8 @@
 * Others (Design By Contract, Defensive Design, Abstract Datatypes, N Version, Information Hiding)
 
 ### PHP
-* Traversable, Iterator, IteratorAggregate, Throwable, ArrayAccess, Serializable, Closure, Generator
+* Language Structure (Traversable, Iterator, IteratorAggregate, Throwable, ArrayAccess, Serializable, Closure, Generator)
+* Phing
 
 ### JS
 * React
