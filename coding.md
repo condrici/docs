@@ -9,7 +9,6 @@
 ### JS
 * Vue
 * jQuery
-* Node
 
 ### JS Plugins
 * Datepicker
