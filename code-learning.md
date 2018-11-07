@@ -35,6 +35,7 @@
 * AdWords
 * Census
 * Europeana APIs
+* DBpedia
 
 ### Others
 * Basic compiler
