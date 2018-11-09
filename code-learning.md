@@ -29,6 +29,7 @@
 ### Certifications (ideas)
 * Red Hat Certified System Administrator (2.5h)
 * Cisco Certified Entry Networking Technician
+* Cambridge CAE C1
 
 ### APIs
 * Wordpress
