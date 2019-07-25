@@ -172,6 +172,45 @@ static
 * Template literals
 * Deprecated features
 
+## Object properties
+prototype.__proto__
+prototype.constructor
+
+## Object methods
+Object.assign()
+Object.create()
+Object.defineProperties()
+Object.defineProperty()
+Object.entries()
+Object.freeze()
+Object.fromEntries()
+Object.getNotifier()
+Object.getOwnPropertyDescriptor()
+Object.getOwnPropertyDescriptors()
+Object.getOwnPropertyNames()
+Object.getOwnPropertySymbols()
+Object.getPrototypeOf()
+Object.is()
+Object.isExtensible()
+Object.isFrozen()
+Object.isSealed()
+Object.keys()
+Object.preventExtensions()
+Object.prototype.__defineGetter__()
+Object.prototype.__defineSetter__()
+Object.prototype.__lookupGetter__()
+Object.prototype.__lookupSetter__()
+Object.prototype.hasOwnProperty()
+Object.prototype.isPrototypeOf()
+Object.prototype.propertyIsEnumerable()
+Object.prototype.toLocaleString()
+Object.prototype.toSource()
+Object.prototype.toString()
+Object.prototype.valueOf()
+Object.seal()
+Object.setPrototypeOf()
+Object.values()
+
 ## Array properties
 
 * constructor	Returns the function that created the Array object's prototype
@@ -188,6 +227,8 @@ static
 * filter()	Creates a new array with every element in an array that pass a test
 * find()	Returns the value of the first element in an array that pass a test
 * findIndex()	Returns the index of the first element in an array that pass a test
+* flat() 
+* flatMap() 
 * forEach()	Calls a function for each array element
 * from()	Creates an array from an object
 * includes()	Check if an array contains the specified element
