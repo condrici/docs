@@ -265,3 +265,69 @@ url: https://www.php.net/manual/en/langref.php
 - asort
 - arsort
 - array_multisort
+
+## Function functions
+
+- call_user_func
+- call_user_func_array
+- forward_static_call
+- forward_static_call_array
+- func_get_arg
+- func_get_args
+- func_num_args
+- function_exists
+- get_defined_functions
+- register_shutdown_functions
+- register_tick_function
+- unregister_tick_function
+
+## Object functions
+
+- autoload
+- class_alias
+- get_called_class
+- get_class_methods
+- get_class_vars
+- get_class
+- get_declared_classes
+- get_declared_interfaces
+- get_declared_traits
+- get_object_vars
+- get_parent_class
+- interface_exists
+- is_a
+- is_subclass_of
+- method_exists
+- property_exists
+- trait_exists
+
+## Misc functions
+- connection_aborted
+- connection_status
+- constant
+- define
+- defined
+- die
+- eval
+- exit
+- get_browser
+- highlight_file
+- highlight_string
+- hrtime
+- ignore_user_abort
+- pack
+- php_check_syntax
+- php_strip_whitespace
+- sapi_windows_cp_conv
+- sapi_windows_cp_get
+- sapi_windows_cp_is_utf8
+- sapi_windows_cp_set
+- sapi_windows_vt100_support
+- show_source
+- sleep
+- sys_getloadavg
+- time_nanosleep
+- time_sleep_until
+- uniqid
+- unpack
+- usleep
