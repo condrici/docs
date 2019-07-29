@@ -167,3 +167,99 @@ url: https://www.php.net/manual/en/langref.php
 - ogg:// — Audio streams
 - expect:// — Process Interaction Streams
 
+### Array functions
+- array_change_key_case
+- array_chunk
+- array_column
+- array_combine
+- array_count_values
+
+- array_diff Compares two arrays, only values
+- array_diff_key, Compares two arrays, only keys
+- array_diff_ukey, Compares two arrays, only keys via user defined func
+- array_diff_assoc, Compares two arrays, both keys and values
+- array_diff_uassoc, Compares two arrays, both keys and values via user defined func
+
+- array_udiff
+- array_udiff_assoc
+- array_udiff_uassoc
+
+- array_fill
+- array_fill_keys
+
+- array_filter
+- array_flip
+
+- array_intersect
+- array_intersect_key
+- array_intersect_ukey
+- array_intersect_assoc
+- array_intersect_uassoc
+
+- array_uintersect
+- array_uintersect_assoc
+- array_uintersect_uassoc
+
+- array_keys
+- array_key_exists
+- array_key_first
+- array_key_last
+
+- array_map
+
+- array_merge
+- array_merge_recursive
+
+- array
+
+- compact
+- count
+- extract
+- in_array
+- key_exists
+- key
+- list
+- shufle
+- sizeof
+
+- current
+- pos
+- next
+- prev
+- end
+
+- array_pad
+- array_pop
+- array_product
+- array_push
+- array_rand
+- array_reduce
+
+- array_replace
+- array_replace_recursive
+
+- array_reverse
+- array_search
+- array_shift
+- array_slice
+- array_splice
+- array_sum
+- array_unique
+- array_unshift
+- array_values
+
+- array_walk
+- array_walk_recursive
+
+- sort
+- rsort
+- ksort
+- krsort
+- natsort
+- natcasesort
+- usort
+- uasort
+- uksort
+- asort
+- arsort
+- array_multisort
