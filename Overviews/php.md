@@ -331,3 +331,10 @@ url: https://www.php.net/manual/en/langref.php
 - uniqid
 - unpack
 - usleep
+
+## Official Documentation
+- Language Reference https://www.php.net/manual/en/langref.php
+- Functions https://www.php.net/manual/en/funcref.php
+- Features https://www.php.net/manual/en/features.php
+- Core https://www.php.net/manual/en/internals2.php
+- Appendices https://www.php.net/manual/en/appendices.php
