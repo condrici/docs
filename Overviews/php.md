@@ -168,6 +168,8 @@ url: https://www.php.net/manual/en/langref.php
 - expect:// — Process Interaction Streams
 
 ### Array functions
+- array Create an array
+
 - array_change_key_case
 - array_chunk
 - array_column
@@ -184,12 +186,6 @@ url: https://www.php.net/manual/en/langref.php
 - array_udiff_assoc
 - array_udiff_uassoc
 
-- array_fill
-- array_fill_keys
-
-- array_filter
-- array_flip
-
 - array_intersect
 - array_intersect_key
 - array_intersect_ukey
@@ -200,25 +196,30 @@ url: https://www.php.net/manual/en/langref.php
 - array_uintersect_assoc
 - array_uintersect_uassoc
 
+- array_fill
+- array_fill_keys
+
+- array_filter
+- array_flip
+
 - array_keys
 - array_key_exists
-- array_key_first
-- array_key_last
+- array_key_first Gets the first key of an array (PHP 7.3+)
+- array_key_last Gets the last key of an array (PHP 7.3+)
 
 - array_map
 
 - array_merge
 - array_merge_recursive
 
-- array
-
 - compact
+- list
+
 - count
 - extract
 - in_array
 - key_exists
 - key
-- list
 - shufle
 - sizeof
 
@@ -227,6 +228,7 @@ url: https://www.php.net/manual/en/langref.php
 - next
 - prev
 - end
+- reset
 
 - array_pad
 - array_pop
