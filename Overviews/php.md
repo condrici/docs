@@ -332,9 +332,25 @@ url: https://www.php.net/manual/en/langref.php
 - unpack
 - usleep
 
+## Topics
+- Design Patterns
+- Performance Optimization
+
+## Performance Optimization
+- Single vs Double quotes
+- PHP Version
+- Count function in loops
+- Closing connections (database, opening files)
+- Static methods/properties use fewer resources (skips class instantiation)
+- Minify assets (e.g. JS, CSS)
+- Use CDN
+
 ## Official Documentation
 - Language Reference https://www.php.net/manual/en/langref.php
 - Functions https://www.php.net/manual/en/funcref.php
 - Features https://www.php.net/manual/en/features.php
 - Core https://www.php.net/manual/en/internals2.php
 - Appendices https://www.php.net/manual/en/appendices.php
+
+## Useful books
+- PHP 7 Data Structures and Algorithms
