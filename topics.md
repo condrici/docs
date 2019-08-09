@@ -1,3 +1,0 @@
-# Topics
-
-- Big-O Notation
