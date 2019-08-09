@@ -5,7 +5,7 @@
 - uptime, service, uname, host, hostname, 
 - systemctl, hostnamectl, timedatectl
 - last, lastb, last reboot, lastlog
-- mkdir, cp, mv, ls, ll,
+- mkdir, cp, scp, mv, ls, ll,
 - vim, vi, tail, head, cat, touch, finger, grep
 - lsblk, df, mount, umount, vgs, pvs, lvs, vgdisplay, lvdisplay
 - ps, top, kill, killp, fuser, ac, yum, rpm, which
