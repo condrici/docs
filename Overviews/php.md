@@ -334,7 +334,13 @@ url: https://www.php.net/manual/en/langref.php
 
 ## Topics
 - Design Patterns
+- Architectural Patterns
 - Performance Optimization
+
+# Architectural Patterns
+- Coupling (tight coupling)
+- Traditional SOA (looser coupling)
+- Microservices (decoupled)
 
 ## Performance Optimization
 - Single vs Double quotes
@@ -344,6 +350,14 @@ url: https://www.php.net/manual/en/langref.php
 - Static methods/properties use fewer resources (skips class instantiation)
 - Minify assets (e.g. JS, CSS)
 - Use CDN
+
+## Packages
+- Tyk (API Gateway with: OAuth, versioning, quotas, etc)
+- Rabbit MQ (Message Broker)
+- Redis (in-memory database, message broker-ish)
+- Laravel (PHP Framework)
+- Apache Kafka (Streaming Platform)
+- GraphQL (Query Language for APIs)
 
 ## Official Documentation
 - Language Reference https://www.php.net/manual/en/langref.php
