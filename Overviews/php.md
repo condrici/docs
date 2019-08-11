@@ -368,3 +368,4 @@ url: https://www.php.net/manual/en/langref.php
 
 ## Useful books
 - PHP 7 Data Structures and Algorithms
+- The art of scalability
