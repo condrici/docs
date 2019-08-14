@@ -1,9 +1,10 @@
 # Common Commands
 
-- man, man -k, info, apropos
+- man, man -k, info, apropos, history
 - su, sudo, users, groups, w, whoami, wall, id
-- uptime, service, uname, host, hostname, 
+- uptime, service, uname, host, hostname
 - systemctl, hostnamectl, timedatectl
+- useradd, groupadd, usermod, groupmod
 - last, lastb, last reboot, lastlog
 - mkdir, cp, scp, mv, ls, ll,
 - vim, vi, tail, head, cat, touch, finger, grep
