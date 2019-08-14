@@ -521,7 +521,52 @@ url: https://www.php.net/manual/en/langref.php
 - Architectural Patterns
 - Performance Optimization
 
-# Architectural Patterns
+## Design Patterns
+
+### Creational
+- Abstract Factory
+- Builder
+- Factory Method
+- Multiton
+- Pool
+- Prototype
+- Simple Factory
+- Singleton
+- Static Factory
+
+### Structural
+- Adapter / Wrapper
+- Bridge
+- Composite
+- Data Mapper
+- Decorator
+- Dependency Injection
+- Facade
+- Fluent Interface
+- Flyweight
+- Proxy
+- Registry
+
+### Behavioral
+- Chain Of Responsibilities
+- Command
+- Iterator
+- Mediator
+- Memento
+- Null Object
+- Observer
+- Specification
+- State
+- Strategy
+- Template Method
+- Visitor
+
+### More
+- Service Locator
+- Repository
+- Entity-Attribute-Value (EAV)
+
+## Architectural Patterns
 - Coupling (tight coupling)
 - Traditional SOA (looser coupling)
 - Microservices (decoupled)
@@ -540,6 +585,7 @@ url: https://www.php.net/manual/en/langref.php
 - Rabbit MQ (Message Broker)
 - Redis (in-memory database, message broker-ish)
 - Laravel (PHP Framework)
+- Symphony (PHP Framework)
 - Apache Kafka (Streaming Platform)
 - GraphQL (Query Language for APIs)
 
