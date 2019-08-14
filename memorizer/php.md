@@ -523,7 +523,7 @@ url: https://www.php.net/manual/en/langref.php
 
 ## Design Patterns
 
-### Creational
+#### Creational
 - Abstract Factory
 - Builder
 - Factory Method
@@ -534,7 +534,7 @@ url: https://www.php.net/manual/en/langref.php
 - Singleton
 - Static Factory
 
-### Structural
+#### Structural
 - Adapter / Wrapper
 - Bridge
 - Composite
@@ -547,7 +547,7 @@ url: https://www.php.net/manual/en/langref.php
 - Proxy
 - Registry
 
-### Behavioral
+#### Behavioral
 - Chain Of Responsibilities
 - Command
 - Iterator
@@ -561,7 +561,7 @@ url: https://www.php.net/manual/en/langref.php
 - Template Method
 - Visitor
 
-### More
+#### More
 - Service Locator
 - Repository
 - Entity-Attribute-Value (EAV)
