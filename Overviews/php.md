@@ -549,6 +549,8 @@ url: https://www.php.net/manual/en/langref.php
 - Features https://www.php.net/manual/en/features.php
 - Core https://www.php.net/manual/en/internals2.php
 - Appendices https://www.php.net/manual/en/appendices.php
+- Objects https://www.php.net/manual/en/oop5.intro.php
+- Objects Changelog https://www.php.net/manual/en/language.oop5.changelog.php
 
 ## Useful books
 - PHP 7 Data Structures and Algorithms
