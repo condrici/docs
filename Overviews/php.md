@@ -279,12 +279,13 @@ url: https://www.php.net/manual/en/langref.php
 - convert_uudecode — Decode a uuencoded string
 - convert_uuencode — Uuencode a string
 - 
-- count_chars — Return information about characters used in a string
-- crc32 — Calculates the crc32 polynomial of a string
-- crypt — One-way string hashing
-- echo — Output one or more strings
+- implode — Join array elements with a string
 - explode — Split a string by a string
+- join — Pseudonim pentru implode
+- 
+- count_chars — Return information about characters used in a string
 - get_html_translation_table — Returns the translation table used by htmlspecialchars and htmlentities
+- 
 - hebrev — Convert logical Hebrew text to visual text
 - hebrevc — Convert logical Hebrew text to visual text with newline conversion
 - hex2bin — Decodes a hexadecimally encoded binary string
@@ -294,13 +295,15 @@ url: https://www.php.net/manual/en/langref.php
 - htmlspecialchars_decode — Convert special HTML entities back to characters
 - htmlspecialchars — Convert special characters to HTML entities
 - 
-- implode — Join array elements with a string
-- join — Pseudonim pentru implode
 - levenshtein — Calculate Levenshtein distance between two strings
 - localeconv — Get numeric formatting information
 - 
-- md5_file — Calculates the md5 hash of a given file
 - md5 — Calculate the md5 hash of a string
+- md5_file — Calculates the md5 hash of a given file
+- sha1 — Calculate the sha1 hash of a string
+- sha1_file — Calculate the sha1 hash of a file
+- crc32 — Calculates the crc32 polynomial of a string
+- crypt — One-way string hashing
 - 
 - metaphone — Calculate the metaphone key of a string
 - money_format — Formats a number as a currency string
@@ -313,8 +316,6 @@ url: https://www.php.net/manual/en/langref.php
 - quoted_printable_encode — Convert a 8 bit string to a quoted-printable string
 - quotemeta — Quote meta characters
 - setlocale — Set locale information
-- sha1_file — Calculate the sha1 hash of a file
-- sha1 — Calculate the sha1 hash of a string
 - similar_text — Calculate the similarity between two strings
 - soundex — Calculate the soundex key of a string
 - sscanf — Parses input from a string according to a format
@@ -329,20 +330,22 @@ url: https://www.php.net/manual/en/langref.php
 - str_split — Convert a string to an array
 - str_word_count — Return information about words used in a string
 - 
-- strcasecmp — Binary safe case-insensitive string comparison
 - strchr — Pseudonim pentru strstr
-- strcmp — Binary safe string comparison
-- strcoll — Locale based string comparison
 - strcspn — Find length of initial segment not matching mask
 - strip_tags — Strip HTML and PHP tags from a string
 - stripcslashes — Un-quote string quoted with addcslashes
 - stripslashes — Un-quotes a quoted string
 - stristr — Case-insensitive strstr
 - strlen — Get string length
-- strnatcasecmp — Case insensitive string comparisons using a "natural order" algorithm
-- strnatcmp — String comparisons using a "natural order" algorithm
+- 
+- strcmp — Binary safe string comparison
+- strcasecmp — Binary safe case-insensitive string comparison
 - strncasecmp — Binary safe case-insensitive string comparison of the first n characters
 - strncmp — Binary safe string comparison of the first n characters
+- strnatcmp — String comparisons using a "natural order" algorithm
+- strnatcasecmp — Case insensitive string comparisons using a "natural order" algorithm
+- strcoll — Locale based string comparison
+- 
 - strpbrk — Search a string for any of a set of characters
 - 
 - strpos — Find the position of the first occurrence of a substring in a string
@@ -373,6 +376,7 @@ url: https://www.php.net/manual/en/langref.php
 - lcfirst — Make a string's first character lowercase
 - ucwords — Uppercase the first character of each word in a string
 - 
+- echo — Output one or more strings
 - print — Output a string
 - printf — Output a formatted string
 - fprintf — Write a formatted string to a stream
