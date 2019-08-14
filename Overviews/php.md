@@ -514,6 +514,8 @@ url: https://www.php.net/manual/en/langref.php
 - unpack
 - usleep
 
+## Standard PHP Library (SPL)
+
 ## Topics
 - Design Patterns
 - Architectural Patterns
