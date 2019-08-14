@@ -423,6 +423,46 @@ url: https://www.php.net/manual/en/langref.php
 - register_tick_function
 - unregister_tick_function
 
+## Variable functions
+
+- boolval — Get the boolean value of a variable
+- debug_zval_dump — Dumps a string representation of an internal zend value to output
+- doubleval — Pseudonim pentru floatval
+- empty — Determină dacă o variabilă este vidă
+- floatval — Obține valoarea float a unei variabile
+- get_defined_vars — Întoarce un msiv cu toate variabilele definite
+- get_resource_type — Întoarce tipul resursei
+- gettype — Obține tipul unei variabile
+- import_request_variables — Importă variabilele GET/POST/Cookie în circumstanța globală
+- intval — Obține valoarea întreagă a unei variabile
+- is_array — Determină dacă o variabilă este un array
+- is_bool — Determină dacă o variablă este un boolean
+- is_callable — Verifică dacă conținutul unei variabile poate fi apelat în calitate de funcție
+- is_countable — Verify that the contents of a variable is a countable value
+- is_double — Pseudonim pentru is_float
+- is_float — Determină dacă tipul unei variabile este float
+- is_int — Determină dacă tipul unei variabile este integer
+- is_integer — Pseudonim pentru is_int
+- is_iterable — Verify that the contents of a variable is an iterable value
+- is_long — Pseudonim pentru is_int
+- is_null — Determină dacă o variabilă este NULL
+- is_numeric — Determină dacă o variabilă este un număr sau un string numeric
+- is_object — Determină dacă o variabilă este un obiect
+- is_real — Pseudonim pentru is_float
+- is_resource — Determină dacă o variabilă este o resursă
+- is_scalar — Determină dacă o variabilă este un scalar
+- is_string — Determină dacă tipul variabilei este string
+- isset — Determină dacă o variablă este stabilită și nu este NULL
+- print_r — Afișează informație lizibilă de om despre o variabilă
+- serialize — Generează o reprezentare ce poate fi stocată a unei valori
+- settype — Stabilește tipul unei variabile
+- strval — Obține valoarea string a unei variabile
+- unserialize — Creează o valoare PHP dintr-o reprezentare stocată
+- unset — Elimină o variabilă dată
+- var_dump — Afișează informația despre o variabilă
+- var_export — Afișează sau întoarce o reprezentare string, ce poate fi prelucrată, a unei variabile
+
+
 ## Object functions
 
 - autoload
