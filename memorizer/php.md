@@ -655,6 +655,9 @@ url: https://www.php.net/manual/en/langref.php
 - Template Method
 - Visitor
 
+#### Architectural
+ADR Active record Broker Client–server CBD DAO DTO DDD ECS EDA Front controller Identity map Interceptor Implicit invocation Inversion of control Model 2 MOM Microservices MVA MVC MVP MVVM Monolithic Multitier Naked objects ORB P2P Publish–subscribe PAC REST SOA Service locator SN SBA Specification
+
 #### More
 - Service Locator
 - Repository
