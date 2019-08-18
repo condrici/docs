@@ -4,6 +4,41 @@ The purpose of this document is to provide a nice overview of the PHP language w
 
 url: https://www.php.net/manual/en/langref.php
 
+### Summary: Structure
+
+- Types
+- Variables
+- Constants
+- Operators
+- Control Strutures
+- Functions
+- Classes and Objects
+- Namespaces
+- Errors
+- Exceptions
+- References
+- Predefined Exceptions
+- Predefined Interfaces and Classes
+- Context options and parameters
+- Protocols and wrappers
+
+### Summary: Reference
+
+- Array Functions
+- String Functions
+- Output Control Functions
+- Function Functions
+- Variable Functions
+- Object Functions
+- Misc Functions
+- Filesystem Functions
+- Magic Constants
+
+### Summary: Topics
+- Design Patterns
+- Performance Optimization
+- Testing
+
 ### Types
 - booleans
 - integers
@@ -612,7 +647,6 @@ url: https://www.php.net/manual/en/langref.php
 
 ## Topics
 - Design Patterns
-- Architectural Patterns
 - Performance Optimization
 
 ## Design Patterns
