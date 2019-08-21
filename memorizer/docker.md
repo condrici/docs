@@ -28,13 +28,20 @@
 - docker-compose up
 - docker-compose up -d (run in bg)
 - docker-compose up -d --no-deps --build <service_name> (build before starting container)
+- docker-compose up -d --force-recreate (recreate container)
 - docker-compose down
-- docker-compose restart
+- docker-compose restart (does not affect changes in yaml)
+-
+- docker secret
+- docker secret create
+- docker secret inspect
+- docker secret ls
+- docker secret rm
+
 - 
 - docker image
-- docker image
 - docker image ls
-- docker imaaaaaaage rm
+- docker image rm
 - 
 - docker exec
 - docker exec <machine> <command>
