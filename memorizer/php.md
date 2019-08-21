@@ -719,6 +719,7 @@ ADR Active record Broker Client–server CBD DAO DTO DDD ECS EDA Front controlle
 - Symphony (PHP Framework)
 - Apache Kafka (Streaming Platform)
 - GraphQL (Query Language for APIs)
+- RBAC
 
 ## Official Documentation
 - Language Reference https://www.php.net/manual/en/langref.php
