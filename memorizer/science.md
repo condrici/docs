@@ -10,6 +10,12 @@
 - Encapsulation
 - Polymorphism
 - Inheritance
+-
+- Coupling
+- Cohesion
+- Association
+- Aggregation
+- Composition
 
 ## Testing
 
