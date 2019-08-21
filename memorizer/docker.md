@@ -27,7 +27,9 @@
 - docker-compose
 - docker-compose up
 - docker-compose up -d (run in bg)
+- docker-compose up -d --no-deps --build <service_name> (build before starting container)
 - docker-compose down
+- docker-compose restart
 - 
 - docker image
 - docker image
