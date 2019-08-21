@@ -2,15 +2,22 @@
 
 ## Common Commands
 
+- docker build
+- docker run
+- docker stop
+- docker pause
+- 
 - docker volume
+- 
+- docker rmi
+- docker rm
+- 
+- docker logs
+- docker events
 - docker version
 - docker update
 - docker top
 - docker stats
-- docker rmi
-- docker rm
-- docker logs
-- docker events
 -
 - docker network
 - docker network ls
