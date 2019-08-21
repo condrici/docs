@@ -4,13 +4,13 @@
 
 - docker build
 - docker run
-- docker stop
-- docker pause
 - 
 - docker volume
 - 
-- docker rmi
 - docker rm
+- docker rmi
+- docker stop
+- docker pause
 - 
 - docker logs
 - docker events
