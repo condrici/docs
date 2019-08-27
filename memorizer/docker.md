@@ -45,3 +45,6 @@
 - 
 - docker exec
 - docker exec <machine> <command>
+- 
+- docker stop $(docker ps -a -q) (stop all containers)
+- docker rm $(docker ps -a -q) (remove all containers)
